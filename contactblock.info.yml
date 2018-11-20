@@ -1,0 +1,8 @@
+name: Contact Block
+description: A simple module to demonstrate Block.
+core: 8.x
+package: ContactBlock
+dependencies:
+- node
+- block
+type: module
